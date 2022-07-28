@@ -1,0 +1,12 @@
+
+r
+java:S1118":Add a private constructor to hide the implicit public one.(½ì»²ÿÿÿÿÿ8¶èÇû˜0HæRMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(ÀÂÆÒúÿÿÿÿHÛRMAJORZ
+CODE_SMELL
+f
+java:S1128".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ8…¸Òû˜0HõRMINORZ
+CODE_SMELL
+Œ
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(·¬…—8¶èÇû˜0HìRMINORZ
+CODE_SMELL

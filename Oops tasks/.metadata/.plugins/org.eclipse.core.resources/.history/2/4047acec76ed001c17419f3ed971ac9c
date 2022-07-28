@@ -1,0 +1,33 @@
+package com.oops;
+
+public class Box {
+	int length,breadth,height;
+	
+	Box(int length,int breadth,int height){
+		this.length=length;
+		this.breadth=breadth;
+		this.height=height;
+		System.out.println("area and volume of cuboid");
+		System.out.println(2*length*breadth+2*length*height+2*height*breadth);
+	}
+	void display() {
+		System.out.println("area and volume of cuboid");
+		System.out.println(2*length*breadth+2*length*height+2*height*breadth);
+	}
+
+}
+class Box3d extends Box {
+	Box3d(int length, int breadth, int height) {
+		super(length, breadth, height);
+	}
+	void display() {
+		System.out.println(" volume of cuboid");
+		System.out.println(length*height*breadth);
+	}
+	public static void main(String[] args) {
+		Box3d d=new Box3d(10,5,20);
+		d.display();
+		bo.display();
+	}
+
+}

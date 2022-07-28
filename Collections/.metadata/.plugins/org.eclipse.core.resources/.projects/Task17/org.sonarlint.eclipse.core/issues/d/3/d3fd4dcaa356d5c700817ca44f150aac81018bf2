@@ -1,0 +1,14 @@
+
+k	java:S106$"9Replace this use of System.out or System.err by a logger.(ÿ€¢þ8ÀÔÊ¤š0H¶RMAJORZ
+CODE_SMELL
+n	java:S125%"<This block of commented-out lines of code should be removed.(ã€Ž8¸“â¤š0H»RMAJORZ
+CODE_SMELL
+c
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8¸“â¤š0HÂRMINORZ
+CODE_SMELL
+j
+java:S1128"2Remove this unused import 'java.util.Collections'.(¢³ïÓþÿÿÿÿ8¸“â¤š0HÄRMINORZ
+CODE_SMELL
+d
+java:S1128"1Remove this unused import 'java.util.Comparator'.(î¹ó¹8¸“â¤š0HÆRMINORZ
+CODE_SMELL

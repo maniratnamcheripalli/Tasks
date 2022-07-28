@@ -1,0 +1,16 @@
+package com.practise.cell;
+
+public class Te extends To{
+	void run() {
+		System.out.println("Enter your name");
+	}
+
+	public static void main(String[] args) {
+		To ob;
+		ob=new Te();
+		ob.run();
+
+
+	}
+
+}

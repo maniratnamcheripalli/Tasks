@@ -1,0 +1,7 @@
+INDEX VERSION 1.131+D:\Mani\Tasks from confluence\Exception Handling\.metadata\.plugins\org.eclipse.jdt.core
+3854863780.index
+225885863.index
+3957953841.index
+2632885671.index
+1865797976.index
+4137289444.index

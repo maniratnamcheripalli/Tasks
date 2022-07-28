@@ -1,0 +1,19 @@
+package com.oops;
+
+public class Box3d extends Box {
+	
+	Box3d(int length, int breadth, int height) {
+		super(length, breadth, height);
+	}
+	void display() {
+		
+		System.out.println(" volume of cuboid");
+		System.out.println(length*height*breadth);
+	}
+	public static void main(String[] args) {
+		Box3d d=new Box3d(10,5,20);
+		d.display();
+		
+	}
+
+}

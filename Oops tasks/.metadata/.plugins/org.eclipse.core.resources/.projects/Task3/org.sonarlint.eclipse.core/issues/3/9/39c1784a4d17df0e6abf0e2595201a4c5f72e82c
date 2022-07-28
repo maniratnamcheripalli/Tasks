@@ -1,0 +1,19 @@
+
+\
+java:S1659"$Declare "height" on a separate line.(¬¢ÌÕüÿÿÿÿ8Ä„Ìà–0HğRMINORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(åì¬Õüÿÿÿÿ8õ·‡à–0H¹RMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(Îİé8ÀÍÜß–0HœRMAJORZ
+CODE_SMELL
+p	java:S106	"9Replace this use of System.out or System.err by a logger.(­³´ÿÿÿÿÿ8ÀÍÜß–0HRMAJORZ
+CODE_SMELL
+q
+java:S2696
+"6Make the enclosing method "static" or remove this set.(Ñ¾»Ôøÿÿÿÿ8‘ãĞà–0H€RCRITICALZ
+CODE_SMELL
+l
+java:S2696"6Make the enclosing method "static" or remove this set.(¤§Ö8‘ãĞà–0HRCRITICALZ
+CODE_SMELL
+j	java:S106"9Replace this use of System.out or System.err by a logger.(ş­„[8õ·‡à–0H¸RMAJORZ
+CODE_SMELL

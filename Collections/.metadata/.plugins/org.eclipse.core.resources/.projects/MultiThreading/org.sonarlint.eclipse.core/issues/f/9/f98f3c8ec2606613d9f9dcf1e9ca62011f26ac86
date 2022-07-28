@@ -1,0 +1,25 @@
+
+p
+java:S1659">Declare "b" and all following declarations on a separate line.(×ÔW8—Á¨¥›0HŸRMINORZ
+CODE_SMELL
+h
+java:S2209"5Change this instance-reference to a static reference.(¨Èğ®8¡³¡Â›0H©RMAJORZ
+CODE_SMELL
+q
+java:S2696"6Make the enclosing method "static" or remove this set.(ïà½¤ÿÿÿÿÿ8¡³¡Â›0H«RCRITICALZ
+CODE_SMELL
+h
+java:S2209"5Change this instance-reference to a static reference.(ÓË‰™8¡³¡Â›0H§RMAJORZ
+CODE_SMELL
+Q
+java:S3010"Remove this assignment of "a".(ÓË‰™8¡³¡Â›0H£RMAJORZ
+CODE_SMELL
+Q
+java:S3010"Remove this assignment of "b".(¨Èğ®8¡³¡Â›0H¥RMAJORZ
+CODE_SMELL
+m
+java:S1161
+":Add the "@Override" annotation above this method signature(“–ış8ˆú•¥›0HRMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(¢åÄğ8‘˜»Â›0HìRMAJORZ
+CODE_SMELL

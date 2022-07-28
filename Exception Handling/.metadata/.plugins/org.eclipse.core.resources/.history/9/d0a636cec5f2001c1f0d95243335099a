@@ -1,0 +1,42 @@
+package com.handling;
+
+import java.util.ArrayList;
+import java.util.Scanner;
+
+public class EmployeeExecution {
+	
+	static ArrayList<Employee> list  = new ArrayList<Employee>();
+
+	/*
+	 * void emp(int id, String name, String address) { this.id = id; this.name =
+	 * name; this.address = address; System.out.println(id); }
+	 * 
+	 * void emp1(int id1, String name, String address) { id = id1; this.name = name;
+	 * this.address = address; }
+	 * 
+	 * int emp2(int id2, String name, String address) { id = id2; this.name = name;
+	 * this.address = address; return id2; }
+	 */
+
+	public static void empid(int a) throws EmpIdNotFound {
+		int c = 0;
+		Employee e1 = new Employee(1, "raju", "HYD");
+		list.add(e1);
+		Employee e2 = new Employee(2, "sam", "BEG");
+		list.add(e2);
+		Employee e3 = new Employee(3, "rani", "MUB");
+		list.add(e3);
+		for (int de : b) {
+			if (de == a) {
+				c++;
+			}
+		}
+		if (c == 1) {
+			System.out.println("Welcome to office");
+		} else {
+			throw new EmpIdNotFound("given Employee ID is not found or mismatched ,please enter the valid ID");
+		}
+
+	}
+
+}

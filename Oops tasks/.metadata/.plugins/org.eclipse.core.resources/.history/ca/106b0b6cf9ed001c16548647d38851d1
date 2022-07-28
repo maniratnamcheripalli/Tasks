@@ -1,0 +1,12 @@
+package com.oops;
+
+public class Box3d extends Box {
+	Box3d() {
+		//super(length, breadth, height);
+	}
+	void display() {
+		
+		System.out.println("volume of cuboid");
+		System.out.println(length*height*breadth);
+	}
+}

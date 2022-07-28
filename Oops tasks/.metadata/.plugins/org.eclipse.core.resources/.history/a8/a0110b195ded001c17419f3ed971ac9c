@@ -1,0 +1,10 @@
+package com.practise.task;
+
+public class Triangle extends Shape  {
+	void area(int base,int height){
+		System.out.println ("Area of triangle  "+(base*height)/2);
+	}
+	void perimeter(int length,int breadth,int height) {
+		System.out.println("Perimeter of triangle  "+ ( length*breadth*height));
+	}
+}

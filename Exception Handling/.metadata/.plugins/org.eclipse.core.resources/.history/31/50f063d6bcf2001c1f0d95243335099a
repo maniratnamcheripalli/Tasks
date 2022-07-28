@@ -1,0 +1,52 @@
+package com.handling;
+
+import java.util.Scanner;
+
+public class Pojo {
+	String name,address;
+	 int id;
+	int c=0;
+	Pojo(int id1,int id2,int id3){
+		int b[]= {id1,id2,id3};
+		for(int de:b) {
+			System.out.println(de);
+	}
+		
+	}
+//		if(c==1) {
+//			System.out.println("Welcome to office");
+//		}
+//		else {
+//			throw new EmpIdNotFound("given Employee ID is not found or mismatched ,please enter the valid ID");
+//		}
+//		
+//	}
+
+//	public static void empid(int a) throws EmpIdNotFound {
+//		int c=0;
+//		for(int de:b) {
+//			if(de==a) {
+//				c++;
+//			}
+//		}
+//		if(c==1) {
+//			System.out.println("Welcome to office");
+//		}
+//		else {
+//			throw new EmpIdNotFound("given Employee ID is not found or mismatched ,please enter the valid ID");
+//		}
+//		
+//	}
+	public static void main(String[] args) {
+		Scanner ha=new Scanner(System.in);
+		System.out.println("enter id");
+	    int id=ha.nextInt();
+	    Pojo p=new Pojo(1955,1952,1953);
+//		try {
+//			Pojo.empid(id);
+//		}catch(Exception e) {
+//			System.out.println(e);
+//		}	
+
+}
+}

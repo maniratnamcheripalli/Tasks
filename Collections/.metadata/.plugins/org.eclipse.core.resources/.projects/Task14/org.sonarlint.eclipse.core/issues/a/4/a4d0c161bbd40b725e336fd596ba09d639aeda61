@@ -1,0 +1,38 @@
+
+k	java:S106"9Replace this use of System.out or System.err by a logger.(ïÎÆ8»¶æ­™0HšRMAJORZ
+CODE_SMELL
+r
+java:S1118":Add a private constructor to hide the implicit public one.(´Ï³ıÿÿÿÿ8»¶æ­™0HRMAJORZ
+CODE_SMELL
+k	java:S106#"9Replace this use of System.out or System.err by a logger.(İ¯™¹8»¶æ­™0HŒRMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(–îİ¼8»¶æ­™0H¦RMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(Ôéä‚8»¶æ­™0H™RMAJORZ
+CODE_SMELL
+p	java:S106&"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8¤£° š0H©RMAJORZ
+CODE_SMELL
+„
+java:S1192"IDefine a constant instead of duplicating this literal "Benz AMG" 3 times.(ÎïİÁúÿÿÿÿ8¿ÎŸ®™0HœRCRITICALZ
+CODE_SMELL
+„
+java:S1192"IDefine a constant instead of duplicating this literal "Benz EQC" 3 times.(ãµæÉÿÿÿÿÿ8¿ÎŸ®™0H§RCRITICALZ
+CODE_SMELL
+”
+java:S1192"YDefine a constant instead of duplicating this literal "current count of car is " 3 times.(–°ñæùÿÿÿÿ8¿ÎŸ®™0H•RCRITICALZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(–°ñæùÿÿÿÿ8»¶æ­™0H¡RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(‹óÑÉúÿÿÿÿ8»¶æ­™0H›RMAJORZ
+CODE_SMELL
+„
+java:S1192"NDefine a constant instead of duplicating this literal "Benz A- Class" 3 times.(Š„˜£8¿ÎŸ®™0H‘RCRITICALZ
+CODE_SMELL
+k	java:S106 "9Replace this use of System.out or System.err by a logger.(åØÔ8»¶æ­™0HRMAJORZ
+CODE_SMELL
+‘
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(àù”øøÿÿÿÿ8»¶æ­™0HRMINORZ
+CODE_SMELL
+O
+java:S1116"Remove this empty statement.(ËÏòæ8ê°«¤š0H¨RMINORZ
+CODE_SMELL

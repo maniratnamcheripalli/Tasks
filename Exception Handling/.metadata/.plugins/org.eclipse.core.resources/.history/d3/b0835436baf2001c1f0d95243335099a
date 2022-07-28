@@ -1,0 +1,49 @@
+package com.handling;
+
+import java.util.Scanner;
+
+public class Pojo {
+	String name,address;
+	static int id;
+	Pojo(int id,String name,String address){
+		this.id=id;
+		this.name=name;
+		this.address=address;
+	}
+
+//	public static void empid(int a) throws EmpIdNotFound {
+//		int c=0;
+//		for(int de:b) {
+//			if(de==a) {
+//				c++;
+//			}
+//		}
+//		if(c==1) {
+//			System.out.println("Welcome to office");
+//		}
+//		else {
+//			throw new EmpIdNotFound("given Employee ID is not found or mismatched ,please enter the valid ID");
+//		}
+//		
+//	}
+	public static void main(String[] args) {
+		Scanner ha=new Scanner(System.in);
+		Pojo p=new Pojo(1955,"Mani","Koheda");
+		Pojo p1=new Pojo(1951,"Raju","Hyderabad");
+		Pojo p2=new Pojo(1952,"Taman","Nagole");
+		Pojo [] arr= {p,p1,p2};
+		for(Pojo ac:arr) {
+			System.out.println(ac);
+		}
+		System.out.println("enter id");
+	    int id=ha.nextInt();
+//		try {
+//			Pojo [] arr= {p,p1,p2};
+//			
+//			Pojo.empid(id);
+//		}catch(Exception e) {
+//			System.out.println(e);
+//		}	
+
+}
+}

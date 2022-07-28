@@ -1,0 +1,18 @@
+package com.practise.task;
+
+public class Triangle extends Shape  {
+	float area(){
+		 //float a=(base*height)/2;
+		 return 20.0f;
+	}
+
+	public static void main(String[] args) {
+	 Shape sh=new Triangle();
+		System.out.println("Area of triangle is"+ sh.area());
+		
+		
+		
+
+	}
+
+}

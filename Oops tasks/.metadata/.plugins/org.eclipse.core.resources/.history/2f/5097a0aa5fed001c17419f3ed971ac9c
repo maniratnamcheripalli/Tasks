@@ -1,0 +1,21 @@
+package com.practise.task;
+
+import java.util.Scanner;
+
+public class Triangle extends Shape  {
+	void area(){
+		Scanner sc=new Scanner(System.in);
+		System.out.println("enter base and height of triangle");
+		int base=sc.nextInt();
+		int height=sc.nextInt();
+		System.out.println ("Area of triangle  "+(base*height)/2);
+	}
+	void perimeter() {
+		Scanner sc=new Scanner(System.in);
+		System.out.println("enter base and height and breadth of triangle");
+		int base=sc.nextInt();
+		int height=sc.nextInt();
+		int breadth=sc.nextInt();
+		System.out.println("Perimeter of triangle  "+ ( base*breadth*height));
+	}
+}

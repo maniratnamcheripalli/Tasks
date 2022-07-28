@@ -1,0 +1,13 @@
+package com.practise.task;
+
+public class Shape {
+	void area() {
+	 System.out.println("Area in shape");
+		
+	}
+	void perimeter() {
+		System.out.println("perimeter in shape");
+	}
+
+
+}

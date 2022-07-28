@@ -1,0 +1,11 @@
+
+r	java:S899"BDo something with the "boolean" value returned by "createNewFile".(Ğ’Íùÿÿÿÿ8Ø´Æû£0HèRMINORZBUG
+_
+java:S1481"'Remove this unused "ob" local variable.(Œ€ƒ†ÿÿÿÿÿ8Ø´Æû£0HæRMINORZ
+CODE_SMELL
+k	java:S899"@Do something with the "boolean" value returned by "setReadOnly".(æ«ñ8Ø´Æû£0HéRMINORZBUG
+n
+java:S1854"6Remove this useless assignment to local variable "ob".(Œ€ƒ†ÿÿÿÿÿ8Ø´Æû£0HåRMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(º¡©’8å’«û£0HŞRMAJORZ
+CODE_SMELL

@@ -1,0 +1,8 @@
+INDEX VERSION 1.131+D:\Mani\Tasks from console\Oops tasks\.metadata\.plugins\org.eclipse.jdt.core
+3905519312.index
+3957953841.index
+1972174994.index
+42610692.index
+4137289444.index
+2632885671.index
+1865797976.index

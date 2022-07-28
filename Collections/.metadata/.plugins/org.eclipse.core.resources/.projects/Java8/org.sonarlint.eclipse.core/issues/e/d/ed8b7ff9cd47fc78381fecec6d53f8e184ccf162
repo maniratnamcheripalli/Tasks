@@ -1,0 +1,27 @@
+
+W
+java:S2201"+The return value of "collect" must be used.(ÖõÂİ8§Ò 0H»RMAJORZBUG
+w
+java:S1612 "?Replace this lambda with method reference 'Collection::stream'.(ª’ä©şÿÿÿÿ8’ƒ 0HÄRMINORZ
+CODE_SMELL
+T
+java:S3864"!Remove this use of "Stream.peek".(ÖõÂİ8ä³‡ 0HªRMAJORZ
+CODE_SMELL
+‘
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(çÔ‹¶şÿÿÿÿ8«¸ëŒ 0H¢RMINORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(ÖõÂİ8ä³‡ 0H­RMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(«òˆì8ğö 0HÁRMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(¼ÿ°©8«¸ëŒ 0H¡RMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(›ªÓú8ÚÂïŒ 0H¥RMAJORZ
+CODE_SMELL
+s
+java:S1612"@Replace this lambda with method reference 'System.out::println'.(ÖõÂİ8ä³‡ 0H«RMINORZ
+CODE_SMELL
+k	java:S106!"9Replace this use of System.out or System.err by a logger.(×ö»û8’ƒ 0HÆRMAJORZ
+CODE_SMELL
+j	java:S106"9Replace this use of System.out or System.err by a logger.(ƒñ;8ğö 0HÀRMAJORZ
+CODE_SMELL

@@ -1,0 +1,17 @@
+
+p	java:S106	"9Replace this use of System.out or System.err by a logger.(¹³Ä¸ûÿÿÿÿ8¾ÍÜß–0HRMAJORZ
+CODE_SMELL
+n
+java:S1854"6Remove this useless assignment to local variable "sc".(ğÛ²¸øÿÿÿÿ8ãÁÅà–0HéRMAJORZ
+CODE_SMELL
+q
+java:S2696
+"6Make the enclosing method "static" or remove this set.(Ù«Æÿÿÿÿÿ8ãĞà–0HüRCRITICALZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(Îõ¡Áÿÿÿÿÿ8¾ÍÜß–0H‘RMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(›¶œˆ8ô·‡à–0H³RMAJORZ
+CODE_SMELL
+_
+java:S1481"'Remove this unused "sc" local variable.(ğÛ²¸øÿÿÿÿ8ãÁÅà–0HêRMINORZ
+CODE_SMELL

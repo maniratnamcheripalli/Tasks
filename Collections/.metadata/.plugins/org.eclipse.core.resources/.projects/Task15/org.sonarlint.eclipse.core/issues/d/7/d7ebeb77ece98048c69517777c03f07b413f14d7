@@ -1,0 +1,41 @@
+
+k	java:S106("9Replace this use of System.out or System.err by a logger.(þ«ÄÈ8žá×ª™0HëRMAJORZ
+CODE_SMELL
+p	java:S106<"9Replace this use of System.out or System.err by a logger.(ƒ–îáÿÿÿÿÿ8Š¦íª™0HíRMAJORZ
+CODE_SMELL
+k	java:S106A"9Replace this use of System.out or System.err by a logger.(þ«ÄÈ8Á”¥«™0HõRMAJORZ
+CODE_SMELL
+k	java:S106>"9Replace this use of System.out or System.err by a logger.(øäéŠ8Š¦íª™0HòRMAJORZ
+CODE_SMELL
+ˆ
+java:S3776
+"RRefactor this method to reduce its Cognitive Complexity from 33 to the 15 allowed.(Çµí‘8Š¦íª™0HùRCRITICALZ
+CODE_SMELL
+p	java:S1063"9Replace this use of System.out or System.err by a logger.(Ë­³âÿÿÿÿÿ8Š¦íª™0HñRMAJORZ
+CODE_SMELL
+g
+java:S3740""/Provide the parametrized type for this generic.(šØ‰Çüÿÿÿÿ8Š¦íª™0HîRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(êü©üùÿÿÿÿ8Š¦íª™0HŠRMAJORZ
+CODE_SMELL
+k	java:S106%"9Replace this use of System.out or System.err by a logger.(øäéŠ8Š¦íª™0HöRMAJORZ
+CODE_SMELL
+b
+java:S3740;"/Provide the parametrized type for this generic.(¨‰§¹8žá×ª™0HéRMAJORZ
+CODE_SMELL
+k	java:S106#"9Replace this use of System.out or System.err by a logger.(—Í»Ÿ8žá×ª™0HìRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ÄÆÊÇûÿÿÿÿ8Š¦íª™0HïRMAJORZ
+CODE_SMELL
+p	java:S106:"9Replace this use of System.out or System.err by a logger.(ˆÔ–›ûÿÿÿÿ8ÒŠ”ª™0HóRMAJORZ
+CODE_SMELL
+k	java:S106E"9Replace this use of System.out or System.err by a logger.(“†ÛÈ8Á”¥«™0H÷RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(Ë­³âÿÿÿÿÿ8žá×ª™0HøRMAJORZ
+CODE_SMELL
+p	java:S106!"9Replace this use of System.out or System.err by a logger.(íÝËÃþÿÿÿÿ8àû«ª™0HôRMAJORZ
+CODE_SMELL
+k	java:S106,"9Replace this use of System.out or System.err by a logger.(“†ÛÈ8Š¦íª™0HðRMAJORZ
+CODE_SMELL
+p	java:S1066"9Replace this use of System.out or System.err by a logger.(êü©üùÿÿÿÿ8žá×ª™0HêRMAJORZ
+CODE_SMELL

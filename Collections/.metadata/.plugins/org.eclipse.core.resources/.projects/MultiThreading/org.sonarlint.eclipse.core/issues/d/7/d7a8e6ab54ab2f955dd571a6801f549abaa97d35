@@ -1,0 +1,8 @@
+
+p	java:S106"9Replace this use of System.out or System.err by a logger.(Ø¾øØüÿÿÿÿ8¡‹ØÄ›0HòRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(›Óð°þÿÿÿÿ8¡‹ØÄ›0HóRMAJORZ
+CODE_SMELL
+r
+java:S1161":Add the "@Override" annotation above this method signature(ÿŸ¾Ðüÿÿÿÿ8¡‹ØÄ›0HôRMAJORZ
+CODE_SMELL

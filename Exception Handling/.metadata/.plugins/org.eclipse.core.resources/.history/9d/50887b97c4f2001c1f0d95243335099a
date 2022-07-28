@@ -1,0 +1,25 @@
+package com.handling;
+
+import java.util.Scanner;
+
+public class EmployeeMain {
+	public static void main(String[] args) {
+		Scanner ha=new Scanner(System.in);
+		System.out.println("enter id");
+	    int id=ha.nextInt();
+		Pojo p=new Pojo();
+		p.emp(1955,"Mani","Koheda");
+		Pojo p1=new Pojo();
+		p1.emp1(1951,"Raju","Hyderabad");
+		Pojo p2=new Pojo();
+		p2.emp2(1952,"Taman","Nagole");
+		
+		try {
+			
+			Pojo.empid(id);
+		}catch(Exception e) {
+			System.out.println(e);
+		}	
+
+}
+}

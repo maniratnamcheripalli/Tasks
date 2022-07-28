@@ -1,0 +1,20 @@
+package com.practise.task;
+
+import java.util.Scanner;
+
+public class Circle extends Shape {
+	void area() {
+		Scanner sc=new Scanner(System.in);
+		System.out.println("enter radius of triangle");
+		int radius=sc.nextInt();
+		System.out.println("Area of circle   "+(3.14*radius*radius));
+	}
+	void perimeter() {
+		Scanner sc=new Scanner(System.in);
+		System.out.println("enter radius of triangle");
+		int radius=sc.nextInt();
+		System.out.println("Perimeter of circle "+(2 * 3.14*radius));
+		
+	}
+
+}

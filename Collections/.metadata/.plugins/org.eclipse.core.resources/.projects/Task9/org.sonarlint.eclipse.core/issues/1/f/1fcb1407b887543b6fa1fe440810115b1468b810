@@ -1,0 +1,16 @@
+
+Œ
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÉµŒ¶8Ì Å×˜0H«RMINORZ
+CODE_SMELL
+`
+java:S1604 "(Make this anonymous inner class a lambda(ï´ÌÊùÿÿÿÿ8Ì Å×˜0H­RMAJORZ
+CODE_SMELL
+k	java:S106,"9Replace this use of System.out or System.err by a logger.(ÆÇä˜8Ì Å×˜0H®RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ïˆõÍüÿÿÿÿ8ïŸÓÖ˜0H¯RMAJORZ
+CODE_SMELL
+p	java:S106*"9Replace this use of System.out or System.err by a logger.(°­¹Œûÿÿÿÿ8Ì Å×˜0H°RMAJORZ
+CODE_SMELL
+b
+java:S3740"/Provide the parametrized type for this generic.(¢’óà8ïŸÓÖ˜0H±RMAJORZ
+CODE_SMELL

@@ -1,0 +1,27 @@
+
+p	java:S106-"9Replace this use of System.out or System.err by a logger.(úÐüÎúÿÿÿÿ8×›ÑÏ˜0H¯RMAJORZ
+CODE_SMELL
+m	java:S125""<This block of commented-out lines of code should be removed.(Ëë•[8Ê°¨¤™0H°RMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(ËÈ÷”8ôÁÎ˜0H±RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ùòáþûÿÿÿÿ8ÞÛ¥Î˜0H²RMAJORZ
+CODE_SMELL
+l
+java:S2864#"4Iterate over the "entrySet" instead of the "keySet".(½æ¡üÿÿÿÿ8Ê°¨¤™0H³RMAJORZ
+CODE_SMELL
+k	java:S106*"9Replace this use of System.out or System.err by a logger.(œ…õ8 »ØÏ˜0H´RMAJORZ
+CODE_SMELL
+p	java:S106!"9Replace this use of System.out or System.err by a logger.(¤†Ç–ùÿÿÿÿ8€¿˜Ï˜0HµRMAJORZ
+CODE_SMELL
+k	java:S1061"9Replace this use of System.out or System.err by a logger.(É„†ú8€¿˜Ï˜0H¶RMAJORZ
+CODE_SMELL
+p	java:S106("9Replace this use of System.out or System.err by a logger.(ÊÝ¢™ýÿÿÿÿ8À”Ï˜0H·RMAJORZ
+CODE_SMELL
+p	java:S106$"9Replace this use of System.out or System.err by a logger.(òÚÍùþÿÿÿÿ8€¿˜Ï˜0H¸RMAJORZ
+CODE_SMELL
+b
+java:S1128"*Remove this unused import 'java.util.Set'.(ö²„¤þÿÿÿÿ8Ê°¨¤™0H¹RMINORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(¤¿“Þ8Æ•ˆÎ˜0H»RMAJORZ
+CODE_SMELL

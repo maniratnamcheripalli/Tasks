@@ -1,0 +1,17 @@
+package com.practise;
+
+public class AllenSolly extends NeighbourShop {
+	void jeans() {
+		System.out.println("Allen Solly Shop");
+	}
+
+	public static void main(String[] args) {
+		
+		NeighbourShop ne=new AllenSolly();
+		ne.jeans();
+		NeighbourShop ob=new NeighbourShop();
+		ob.jeans();
+		ne.jeans();
+	}
+
+}

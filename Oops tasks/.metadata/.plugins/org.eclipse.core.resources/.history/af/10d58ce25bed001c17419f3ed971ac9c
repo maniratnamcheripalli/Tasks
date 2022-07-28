@@ -1,0 +1,12 @@
+package com.practise.task;
+
+public class Square extends Shape {
+	void area(int length) {
+		System.out.println("Area of square "+(2*length));
+		
+	}
+	void perimeter(int length) {
+		System.out.println("Perimeter of square"+(4*length));
+	}
+
+}

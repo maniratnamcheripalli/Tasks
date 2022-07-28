@@ -1,0 +1,9 @@
+package com.practise.task;
+
+public class Shape {
+	float area() {
+		return 10.0f;
+	}
+
+
+}

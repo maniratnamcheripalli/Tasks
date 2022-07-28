@@ -1,0 +1,35 @@
+
+p	java:S106'"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8»ÎŸ®™0HÔRMAJORZ
+CODE_SMELL
+p	java:S106$"9Replace this use of System.out or System.err by a logger.(’îÿéÿÿÿÿÿ8ûƒ¨­™0H¹RMAJORZ
+CODE_SMELL
+‘
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ŸËÁ›ûÿÿÿÿ8ûƒ¨­™0HÑRMINORZ
+CODE_SMELL
+|
+java:S1192"FDefine a constant instead of duplicating this literal "venue" 3 times.(š§À8»ÎŸ®™0HÊRCRITICALZ
+CODE_SMELL
+|
+java:S1192"FDefine a constant instead of duplicating this literal "creta" 4 times.(¡·ğƒ8”ÄÃ­™0HÅRCRITICALZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(Ï©Ë‚H¸RMAJORZ
+CODE_SMELL
+k
+java:S1118":Add a private constructor to hide the implicit public one.(çªÄ”ùÿÿÿÿHÎRMAJORZ
+CODE_SMELL
+b
+java:S1128"*Remove this unused import 'java.util.Map'.(¼è½Òşÿÿÿÿ8ûƒ¨­™0HÃRMINORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(‹¿ÄôùÿÿÿÿHĞRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ÇêÓÖøÿÿÿÿ8ûƒ¨­™0H·RMAJORZ
+CODE_SMELL
+”
+java:S1192"YDefine a constant instead of duplicating this literal "current count of car is " 3 times.(ÇêÓÖøÿÿÿÿ8»ÎŸ®™0H¿RCRITICALZ
+CODE_SMELL
+k	java:S106!"9Replace this use of System.out or System.err by a logger.(õ±Šº8»ÎŸ®™0HÏRMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(¡šÂŠ8»ÎŸ®™0H¾RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ˆøíÿÿÿÿÿ8¹¶æ­™0HÓRMAJORZ
+CODE_SMELL

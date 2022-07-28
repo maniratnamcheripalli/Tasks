@@ -1,0 +1,14 @@
+package com.practise.task;
+
+public class Shape {
+	float area(int a,int b ) {
+	 return a;
+		
+	}
+	float perimeter(int a,int b) {
+		return a;
+		
+	}
+
+
+}

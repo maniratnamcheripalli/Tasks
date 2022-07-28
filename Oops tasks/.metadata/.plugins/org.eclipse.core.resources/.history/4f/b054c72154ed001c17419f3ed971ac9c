@@ -1,0 +1,26 @@
+package com.practise;
+
+public class temp {
+	
+
+}
+class P {
+	int i = 888;
+}
+
+class C extends P {
+	
+	
+	int i = 999;
+}
+
+class Test {
+	public static void main(String arg[]) {
+		P p = new P();
+		System.out.println(p.i); // 888
+		C c = new C();
+		System.out.println(c.i); // 999
+		P p1 = new C();
+		System.out.println(p1.i); // 888
+	}
+}

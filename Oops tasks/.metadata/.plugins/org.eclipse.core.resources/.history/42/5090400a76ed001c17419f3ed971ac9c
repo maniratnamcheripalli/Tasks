@@ -1,0 +1,16 @@
+package com.oops;
+
+public class Box3d extends Box {
+	int length,breadth,height;
+	Box3d(int l,int b,int h){
+		length=l;
+		breadth=b;
+		height=h;
+	}
+	public static void main(String[] args) {
+		Box bo=new Box(10,5,20);
+		Box3d d=new Box3d(10,5,20);
+		bo.display();
+	}
+
+}

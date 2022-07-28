@@ -1,0 +1,10 @@
+package com.task1;
+
+public class Manager extends Employee{
+
+	public void create(String filename) {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

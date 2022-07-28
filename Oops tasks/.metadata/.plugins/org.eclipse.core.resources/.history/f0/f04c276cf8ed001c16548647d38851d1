@@ -1,0 +1,14 @@
+package com.oops;
+
+public class Box {
+	int length,breadth,height;
+	
+	Box(int length,int breadth,int height){
+		this.length=length;
+		this.breadth=breadth;
+		this.height=height;
+		System.out.println("area of cuboid");
+		System.out.println(2*length*breadth+2*length*height+2*height*breadth);
+	}
+}
+

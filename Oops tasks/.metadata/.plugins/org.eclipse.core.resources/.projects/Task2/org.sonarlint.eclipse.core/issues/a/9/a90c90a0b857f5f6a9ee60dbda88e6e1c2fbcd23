@@ -1,0 +1,15 @@
+
+P
+java:S2387	"""i" is the name of a field in "P".(¥Êõ™H­RBLOCKERZ
+CODE_SMELL
+[
+java:S1197"*Move the array designators [] to the type.(ÎÍµúÿÿÿÿH®RMINORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(äÈ«­H±RMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(§ğÖÖüÿÿÿÿH²RMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(Ù¿È»úÿÿÿÿH³RMAJORZ
+CODE_SMELL
+}	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ëˆÚáşÿÿÿÿH´RMINORZ
+CODE_SMELL

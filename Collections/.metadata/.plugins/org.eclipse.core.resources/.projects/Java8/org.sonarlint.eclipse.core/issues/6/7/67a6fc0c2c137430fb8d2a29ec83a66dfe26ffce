@@ -1,0 +1,44 @@
+
+u
+java:S1612"BReplace this lambda with method reference 'StudentDetails::getId'.(ƒïá½8¡‹ 0HıRMINORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(µˆœÑ8ˆ®õ‹ 0H†RMAJORZ
+CODE_SMELL
+j	java:S106"9Replace this use of System.out or System.err by a logger.(Òô€8¦ó¢‹ 0HøRMAJORZ
+CODE_SMELL
+|
+java:S1612%"DReplace this lambda with method reference 'StudentDetails::getName'.(èïÌùÿÿÿÿ8Î•’Œ 0HƒRMINORZ
+CODE_SMELL
+k	java:S106#"9Replace this use of System.out or System.err by a logger.(­Äˆ›8–€ü‹ 0HîRMAJORZ
+CODE_SMELL
+‘
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(§Ğ©ûşÿÿÿÿ8¯ñŠ 0HõRMINORZ
+CODE_SMELL
+u
+java:S1612"BReplace this lambda with method reference 'StudentDetails::getId'.(ªšæÿ8Ğ ”‹ 0HúRMINORZ
+CODE_SMELL
+w
+java:S1612"DReplace this lambda with method reference 'StudentDetails::getName'.(ƒïá½8¡‹ 0HÿRMINORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(‡¤Ÿ”8ˆ®õ‹ 0HùRMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(ŒêİÄ8›Í‹ 0HüRMAJORZ
+CODE_SMELL
+p	java:S106%"9Replace this use of System.out or System.err by a logger.(èïÌùÿÿÿÿ8ëÇŒ 0HñRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(§¥šÿÿÿÿÿ8¦Îó‹ 0H…RMAJORZ
+CODE_SMELL
+g
+java:S1128"/Remove this unused import 'java.util.Optional'.(¨˜ëİüÿÿÿÿ8©¸ëŒ 0HóRMINORZ
+CODE_SMELL
+w
+java:S1612#"DReplace this lambda with method reference 'StudentDetails::getName'.(­Äˆ›8ëÇŒ 0HRMINORZ
+CODE_SMELL
+p	java:S106!"9Replace this use of System.out or System.err by a logger.(À×‡ıÿÿÿÿ8Î•’Œ 0HòRMAJORZ
+CODE_SMELL
+k	java:S106""9Replace this use of System.out or System.err by a logger.(—şÿ8Î•’Œ 0H÷RMAJORZ
+CODE_SMELL
+p	java:S106 "9Replace this use of System.out or System.err by a logger.(Æÿÿÿÿÿ8ˆ®õ‹ 0HïRMAJORZ
+CODE_SMELL
+k	java:S106$"9Replace this use of System.out or System.err by a logger.(—şÿ8ÃŒŒ 0HğRMAJORZ
+CODE_SMELL

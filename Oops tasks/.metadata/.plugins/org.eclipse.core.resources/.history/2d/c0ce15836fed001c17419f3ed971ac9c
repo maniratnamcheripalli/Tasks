@@ -1,0 +1,10 @@
+package com.practise.task;
+
+public class Shape {
+	void area() {	
+	}
+	void perimeter() {
+	}
+
+
+}

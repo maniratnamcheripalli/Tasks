@@ -1,0 +1,7 @@
+
+j	java:S106"9Replace this use of System.out or System.err by a logger.(Ùô±[8Í¿š²˜0HÖRMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(¤¿“Þ8‘Á‘²˜0HÕRMAJORZ
+CODE_SMELL
+p
+java:S4143"DVerify this is the key that was intended; it was already set before.(âÖË½8‘Á‘²˜0HÓRMAJORZBUG

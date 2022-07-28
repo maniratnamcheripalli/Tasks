@@ -1,0 +1,12 @@
+package com.practise.task;
+
+public class Circle extends Shape {
+	void area(int radius) {
+		System.out.println("Area of circle   "+(3.14*radius*radius));
+	}
+	void perimeter(int radius) {
+		System.out.println("Perimeter of circle "+(2 * 3.14*radius));
+		
+	}
+
+}

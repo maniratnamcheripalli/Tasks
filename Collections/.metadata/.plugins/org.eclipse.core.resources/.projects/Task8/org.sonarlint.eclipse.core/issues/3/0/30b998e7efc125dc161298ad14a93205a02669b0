@@ -1,0 +1,15 @@
+
+k	java:S106"9Replace this use of System.out or System.err by a logger.(ç§ßÈ8™ÓÖÕ˜0H±RMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(êÈŽì8™¿æÕ˜0H²RMAJORZ
+CODE_SMELL
+k	java:S106!"9Replace this use of System.out or System.err by a logger.(ÏÔ°¢8¤ºôÕ˜0H³RMAJORZ
+CODE_SMELL
+h
+java:S1128"0Remove this unused import 'java.util.Map.Entry'.(±þê¾úÿÿÿÿ8™¿æÕ˜0H´RMINORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(Îêî”8¶ŒÌÕ˜0H¶RMAJORZ
+CODE_SMELL
+g
+java:S3740"/Provide the parametrized type for this generic.( „ÁÔüÿÿÿÿ8¤ºôÕ˜0H·RMAJORZ
+CODE_SMELL

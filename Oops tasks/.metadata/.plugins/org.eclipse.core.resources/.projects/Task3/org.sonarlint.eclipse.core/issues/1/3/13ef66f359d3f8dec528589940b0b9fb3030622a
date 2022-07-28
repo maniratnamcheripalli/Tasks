@@ -1,0 +1,11 @@
+
+q
+java:S2696"6Make the enclosing method "static" or remove this set.(À¦ıøÿÿÿÿ8µÇ¹à–0HÓRCRITICALZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(Å ¦”8ó·‡à–0H­RMAJORZ
+CODE_SMELL
+j	java:S106
+"9Replace this use of System.out or System.err by a logger.(Ö°V8•é£ß–0HæRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ñó‰ıÿÿÿÿ8•é£ß–0HçRMAJORZ
+CODE_SMELL

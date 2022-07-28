@@ -1,0 +1,11 @@
+
+p	java:S106"9Replace this use of System.out or System.err by a logger.(½íÄ§øÿÿÿÿ8é«£¬™0HµRMAJORZ
+CODE_SMELL
+k	java:S106	"9Replace this use of System.out or System.err by a logger.(¡áê©8é«£¬™0H²RMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(İÌ›8é«£¬™0H´RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(¹Õ¿‰üÿÿÿÿ8é«£¬™0H¶RMAJORZ
+CODE_SMELL
+…	java:S128"LEnd this switch case with an unconditional break, return or throw statement.(úâúÿÿÿÿ8¾ÎŸ®™0H³RBLOCKERZ
+CODE_SMELL

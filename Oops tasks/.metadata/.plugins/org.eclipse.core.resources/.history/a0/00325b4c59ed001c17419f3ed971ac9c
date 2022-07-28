@@ -1,0 +1,11 @@
+package com.practise.task;
+
+public class Triangle extends Shape  {
+	float area(int base, int height){
+		 float a=(base*height)/2;
+		return a;
+	}
+	float perimeter(int length) {
+		return 4*length;
+	}
+}

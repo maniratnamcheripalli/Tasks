@@ -1,0 +1,22 @@
+
+g
+java:S1854"5Remove this useless assignment to local variable "b".(§¿ò¹8×º¢ƒ—0H`RMAJORZ
+CODE_SMELL
+o	java:S106"9Replace this use of System.out or System.err by a logger.(àØùØşÿÿÿÿ8­¬‰ƒ—0HWRMAJORZ
+CODE_SMELL
+o	java:S106"9Replace this use of System.out or System.err by a logger.(ç¿‘Üÿÿÿÿÿ8­¬‰ƒ—0H4RMAJORZ
+CODE_SMELL
+o	java:S106"9Replace this use of System.out or System.err by a logger.(—€Šüÿÿÿÿ8ß¦ƒ—0HiRMAJORZ
+CODE_SMELL
+X
+java:S1481"&Remove this unused "b" local variable.(§¿ò¹8×º¢ƒ—0HaRMINORZ
+CODE_SMELL
+a
+java:S1197"*Move the array designators [] to the type.(«„ğŞúÿÿÿÿ8­¬‰ƒ—0H\RMINORZ
+CODE_SMELL
+o	java:S106"9Replace this use of System.out or System.err by a logger.( ïßøÿÿÿÿ8­¬‰ƒ—0H7RMAJORZ
+CODE_SMELL
+j	java:S106"9Replace this use of System.out or System.err by a logger.(ï‚¸¸8­¬‰ƒ—0H_RMAJORZ
+CODE_SMELL
+q
+java:S3518"CMake sure this expression can't be zero before doing this division.(§¿ò¹8×º¢ƒ—0HcRCRITICALZBUG

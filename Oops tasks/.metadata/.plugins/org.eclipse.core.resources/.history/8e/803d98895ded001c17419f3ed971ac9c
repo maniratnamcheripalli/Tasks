@@ -1,0 +1,22 @@
+package com.practise.task;
+
+public class Main {
+
+	public static void main(String[] args) {
+		Shape s1;
+		s1=new Circle();
+		s1=new Triangle();
+		s1=new Square();
+		s1.area();
+		s1.perimeter();
+		s1.area();
+		s1.perimeter();
+		s1.area();
+		s1.perimeter();
+
+		
+
+	}
+
+}
+

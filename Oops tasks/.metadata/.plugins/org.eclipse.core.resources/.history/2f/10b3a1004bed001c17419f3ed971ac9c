@@ -1,0 +1,9 @@
+package com.practise.task;
+
+public class Shape {
+
+	public String area(int i, int j) {
+		return null;
+	}
+
+}

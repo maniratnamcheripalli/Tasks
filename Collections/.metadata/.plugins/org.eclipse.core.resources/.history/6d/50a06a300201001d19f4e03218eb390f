@@ -1,0 +1,9 @@
+package com.multithreadingtask1;
+
+public class SubClass extends Thread{
+	
+	public void run() {
+		System.out.println("Java is simple");
+	}
+
+}

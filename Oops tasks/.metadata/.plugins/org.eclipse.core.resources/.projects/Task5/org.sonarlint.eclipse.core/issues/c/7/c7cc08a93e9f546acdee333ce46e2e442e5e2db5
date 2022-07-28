@@ -1,0 +1,24 @@
+
+p	java:S106"9Replace this use of System.out or System.err by a logger.(şÄˆŞùÿÿÿÿ8áÓñå–0HŸRMAJORZ
+CODE_SMELL
+d
+java:S2387"*"breadth" is the name of a field in "Box".( …á¥øÿÿÿÿ8Ó‰€—0HÅRBLOCKERZ
+CODE_SMELL
+c
+java:S2387")"length" is the name of a field in "Box".( …á¥øÿÿÿÿ8Ó‰€—0HÄRBLOCKERZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(öáÍª8Ì°å–0H RMAJORZ
+CODE_SMELL
+c
+java:S2387")"height" is the name of a field in "Box".( …á¥øÿÿÿÿ8Ó‰€—0HÆRBLOCKERZ
+CODE_SMELL
+|
+java:S1659"DDeclare "breadth" and all following declarations on a separate line.( …á¥øÿÿÿÿ8Ó‰€—0HÇRMINORZ
+CODE_SMELL
+m
+java:S1161":Add the "@Override" annotation above this method signature(–ºî§8¬öîÿ–0H³RMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(íŞœ”8¤Å©€—0HĞRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(Íë¥Ùıÿÿÿÿ8¤Å©€—0HÑRMAJORZ
+CODE_SMELL

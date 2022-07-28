@@ -1,0 +1,22 @@
+package com.practise.
+task;
+
+public class Main {
+
+	public static void main(String[] args) {
+		Shape s1;
+		Circle ci=new Circle();
+		Triangle ti=new Triangle();
+		Square sq=new Square();
+		ci.area(5);
+		ci.perimeter(5);
+		System.out.println("Area of triangle" +ti.area(10,5));
+		System.out.println("Perimeter of Triangle"+ti.perimeter(10,5,20));
+		System.out.println(sq.area(10));
+		System.out.println(sq.perimeter(10));
+
+		
+
+	}
+
+}

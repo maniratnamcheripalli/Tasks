@@ -1,0 +1,10 @@
+package com.task;
+interface A{
+	void square();
+}
+public class Arithmetic implements A {
+	public void square() {
+		System.out.println("squarte a number");
+	}
+	
+}

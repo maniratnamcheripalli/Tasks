@@ -1,0 +1,12 @@
+package com.practise.task;
+
+public class Shape {
+	float area(int ) {
+		
+	}
+	float perimeter() {
+		
+	}
+
+
+}

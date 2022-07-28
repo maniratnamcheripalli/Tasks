@@ -1,0 +1,14 @@
+package com.practise.task;
+
+public class Circle extends Shape {
+	float area(int radius) {
+		float a=(float) (3.14*radius*radius);
+		return a;
+	}
+	float perimeter(int radius) {
+		float a=(float) (2 * 3.14*radius);
+		return a;
+		
+	}
+
+}
