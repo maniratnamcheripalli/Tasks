@@ -2,13 +2,13 @@ package com.practise;
 
 public class AllenSolly extends NeighbourShop {
 	@Override
-	void jeans() {
-		System.out.println("Allen Solly Shop");
+	void show() {
+		System.out.println("New varient not found");
 	}
 
 	public static void main(String[] args) {
-		NeighbourShop ob=new NeighbourShop();
-		ob.jeans();
+		NeighbourShop ob=new AllenSolly();
+		ob.show();
 	}
 
 }
