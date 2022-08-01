@@ -5,9 +5,9 @@ public class Main {
 	public static void main(String[] args)
 	{
 		
-		Shape s1=new Circle();
-		Shape s2=new Triangle();
-		Shape s3=new Square();
+		Circle s1=new Circle();
+		Triangle s2=new Triangle();
+		Square s3=new Square();
 		s1.area();
 		s1.perimeter();
 		s2.area();
